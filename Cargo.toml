@@ -1,6 +1,7 @@
-[package]
-name = "rust-hackerrank"
-version = "0.1.0"
-edition = "2021"
+[workspace]
+members = [
+    "easy/solve-me-first",
+    "easy/compare-the-triplets",
+]
 
-[dependencies]
+resolver = "2"
