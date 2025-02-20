@@ -31,7 +31,7 @@ fn main() {
 
     let exe_path = env::current_exe().unwrap();
     let exe_dir = exe_path.parent().unwrap();
-    let output_path = exe_dir.join(env::var("OUTPUT_PATH").unwrap_or_else(|_| "output".to_string()));
+    let output_path = exe_dir.join(env::var("OUTPUT_PATH").unwrap_or_else(|_| "compare-the-triplets.txt".to_string()));
     
     let mut fptr = File::create(&output_path).unwrap();
 

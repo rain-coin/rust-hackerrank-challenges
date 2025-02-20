@@ -1,7 +1,8 @@
 [workspace]
 members = [
     "easy/solve-me-first",
-    "easy/compare-the-triplets",
+    "easy/compare-the-triplets", 
+    "easy/a-very-big-sum",
 ]
 
 resolver = "2"
