@@ -4,7 +4,8 @@ members = [
     "easy/compare-the-triplets", 
     "easy/a-very-big-sum", 
     "easy/diagonal-difference", 
-    "easy/plus-minus",
+    "easy/plus-minus", 
+    "easy/staircase",
 ]
 
 resolver = "2"
