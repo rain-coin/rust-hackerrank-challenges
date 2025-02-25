@@ -5,7 +5,8 @@ members = [
     "easy/a-very-big-sum", 
     "easy/diagonal-difference", 
     "easy/plus-minus", 
-    "easy/staircase",
+    "easy/staircase", 
+    "easy/min-max-sum",
 ]
 
 resolver = "2"
