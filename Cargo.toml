@@ -6,7 +6,7 @@ members = [
     "easy/diagonal-difference", 
     "easy/plus-minus", 
     "easy/staircase", 
-    "easy/min-max-sum",
+    "easy/min-max-sum", "easy/birthday-cake-candles",
 ]
 
 resolver = "2"
